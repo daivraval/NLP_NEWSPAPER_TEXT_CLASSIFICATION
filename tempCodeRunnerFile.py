@@ -1,0 +1,1 @@
+C:/Users/Deiv/Desktop/NewsClassification/bbc/{label}

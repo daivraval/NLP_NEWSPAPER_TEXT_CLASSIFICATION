@@ -1,0 +1,6 @@
+# .gitignore
+.vscode/
+.venv/
+_pycache_/
+*.joblib
+Dataset/
